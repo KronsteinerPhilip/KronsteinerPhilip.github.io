@@ -1,0 +1,123 @@
+.purrfect-brew-thq-header78-elm {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-left: var(--dl-layout-space-fiveunits);
+  padding-right: var(--dl-layout-space-fiveunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-fiveunits);
+  justify-content: flex-start;
+}
+ 
+.purrfect-brew-thq-content-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.purrfect-brew-thq-row-container-elm {
+  width: 100%;
+  align-self: center;
+  padding-left: var(--dl-layout-space-unit);
+  padding-right: var(--dl-layout-space-fiveunits);
+}
+ 
+.purrfect-brew-thq-placeholder-image-elm {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-layout-radius-radius8);
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://play.teleporthq.io/static/svg/default-img.svg');
+  background-position: center;
+}
+ 
+.purrfect-brew-image1 {
+  width: 416px;
+  height: 418px;
+  object-fit: cover;
+}
+ 
+.purrfect-brew-container1 {
+  flex: 0 0 auto;
+  width: 581px;
+  height: 432px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.purrfect-brew-text10 {
+  margin-top: var(--dl-layout-space-fourunits);
+}
+ 
+.purrfect-brew-text11 {
+  margin-top: var(--dl-layout-space-twounits);
+  text-align: center;
+  margin-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.purrfect-brew-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.purrfect-brew-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+ 
+.purrfect-brew-link {
+  text-align: center;
+  border-color: rgba(25, 24, 24, 0);
+  text-decoration: none;
+  background-color: rgba(251, 250, 249, 0);
+}
+ 
+.purrfect-brew-image2 {
+  width: 159px;
+  height: 51px;
+  object-fit: cover;
+}
+ 
+.purrfect-brew-fragment1 {
+  display: contents;
+}
+ 
+.purrfect-brew-text12 {
+  display: inline-block;
+}
+ 
+.purrfect-brew-fragment2 {
+  display: contents;
+}
+ 
+.purrfect-brew-text20 {
+  display: inline-block;
+}
+ 
+
+ 
+@media(max-width: 767px) {
+  .purrfect-brew-thq-content-elm {
+    width: 100%;
+  }
+}

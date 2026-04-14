@@ -1,0 +1,112 @@
+.game-template-thq-header78-elm {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-left: var(--dl-layout-space-fiveunits);
+  padding-right: var(--dl-layout-space-fiveunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-fiveunits);
+  justify-content: flex-start;
+}
+ 
+.game-template-thq-content-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.game-template-thq-row-container-elm {
+  width: 100%;
+  align-self: center;
+  padding-left: var(--dl-layout-space-unit);
+  padding-right: var(--dl-layout-space-fiveunits);
+}
+ 
+.game-template-thq-placeholder-image-elm {
+  width: 400px;
+  height: 400px;
+  align-self: center;
+  object-fit: cover;
+  border-radius: var(--dl-layout-radius-radius8);
+  object-position: center;
+}
+ 
+.game-template-container1 {
+  flex: 0 0 auto;
+  width: 581px;
+  height: 432px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.game-template-text1 {
+  margin-top: var(--dl-layout-space-fourunits);
+}
+ 
+.game-template-text2 {
+  margin-top: var(--dl-layout-space-twounits);
+  text-align: center;
+  margin-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.game-template-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.game-template-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+ 
+.game-template-link {
+  text-align: center;
+  border-color: rgba(25, 24, 24, 0);
+  text-decoration: none;
+  background-color: rgba(251, 250, 249, 0);
+}
+ 
+.game-template-image {
+  width: 159px;
+  height: 51px;
+  object-fit: cover;
+}
+ 
+.game-template-fragment1 {
+  display: contents;
+}
+ 
+.game-template-text3 {
+  display: inline-block;
+}
+ 
+.game-template-fragment2 {
+  display: contents;
+}
+ 
+.game-template-text4 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .game-template-thq-content-elm {
+    width: 100%;
+  }
+}

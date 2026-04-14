@@ -1,0 +1,101 @@
+.rpg-dungeon-crawler-thq-header78-elm {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-left: var(--dl-layout-space-fiveunits);
+  padding-right: var(--dl-layout-space-fiveunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-fiveunits);
+  justify-content: flex-start;
+}
+ 
+.rpg-dungeon-crawler-thq-content-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.rpg-dungeon-crawler-thq-row-container-elm {
+  width: 100%;
+  align-self: center;
+  padding-left: var(--dl-layout-space-unit);
+  padding-right: var(--dl-layout-space-fiveunits);
+}
+ 
+.rpg-dungeon-crawler-thq-placeholder-image-elm {
+  width: 400px;
+  height: 400px;
+  align-self: center;
+  object-fit: cover;
+  border-radius: var(--dl-layout-radius-radius8);
+  object-position: center;
+}
+ 
+.rpg-dungeon-crawler-container1 {
+  flex: 0 0 auto;
+  width: 581px;
+  height: 432px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.rpg-dungeon-crawler-text10 {
+  margin-top: var(--dl-layout-space-fourunits);
+}
+ 
+.rpg-dungeon-crawler-text11 {
+  margin-top: var(--dl-layout-space-twounits);
+  text-align: center;
+  margin-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.rpg-dungeon-crawler-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.rpg-dungeon-crawler-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+ 
+.rpg-dungeon-crawler-fragment1 {
+  display: contents;
+}
+ 
+.rpg-dungeon-crawler-text12 {
+  display: inline-block;
+}
+ 
+.rpg-dungeon-crawler-fragment2 {
+  display: contents;
+}
+ 
+.rpg-dungeon-crawler-text19 {
+  display: inline-block;
+}
+ 
+
+ 
+@media(max-width: 767px) {
+  .rpg-dungeon-crawler-thq-content-elm {
+    width: 100%;
+  }
+}

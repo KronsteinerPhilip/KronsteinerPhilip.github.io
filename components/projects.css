@@ -1,0 +1,26 @@
+.projects-container {
+  width: 100%;
+  height: 116px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.projects-text1 {
+  font-size: 60px;
+  align-self: center;
+  text-align: center;
+  padding-bottom: var(--dl-layout-space-fourunits);
+}
+ 
+.projects-fragment {
+  display: contents;
+}
+ 
+.projects-text2 {
+  display: inline-block;
+  font-size: 60px;
+}
+ 
+

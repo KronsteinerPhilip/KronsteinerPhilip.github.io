@@ -1,0 +1,123 @@
+.fearless-ava-thq-header78-elm {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-left: var(--dl-layout-space-fiveunits);
+  padding-right: var(--dl-layout-space-fiveunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-fiveunits);
+  justify-content: flex-start;
+}
+ 
+.fearless-ava-thq-content-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.fearless-ava-thq-row-container-elm {
+  width: 100%;
+  align-self: center;
+  padding-left: var(--dl-layout-space-unit);
+  padding-right: var(--dl-layout-space-fiveunits);
+}
+ 
+.fearless-ava-thq-placeholder-image-elm {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-layout-radius-radius8);
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://play.teleporthq.io/static/svg/default-img.svg');
+  background-position: center;
+}
+ 
+.fearless-ava-image1 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.fearless-ava-container1 {
+  flex: 0 0 auto;
+  width: 581px;
+  height: 432px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.fearless-ava-text10 {
+  margin-top: var(--dl-layout-space-fourunits);
+}
+ 
+.fearless-ava-text11 {
+  margin-top: var(--dl-layout-space-twounits);
+  text-align: center;
+  margin-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.fearless-ava-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.fearless-ava-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+ 
+.fearless-ava-link {
+  text-align: center;
+  border-color: rgba(25, 24, 24, 0);
+  text-decoration: none;
+  background-color: rgba(251, 250, 249, 0);
+}
+ 
+.fearless-ava-image2 {
+  width: 159px;
+  height: 51px;
+  object-fit: cover;
+}
+ 
+.fearless-ava-fragment1 {
+  display: contents;
+}
+ 
+.fearless-ava-text12 {
+  display: inline-block;
+}
+ 
+.fearless-ava-fragment2 {
+  display: contents;
+}
+ 
+.fearless-ava-text13 {
+  display: inline-block;
+}
+ 
+
+ 
+@media(max-width: 767px) {
+  .fearless-ava-thq-content-elm {
+    width: 100%;
+  }
+}
