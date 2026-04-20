@@ -47,7 +47,15 @@
 .home-text10 {
   display: inline-block;
 }
- 
+
+.cv-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+}
 
 
 .projects-wrapper {
